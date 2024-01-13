@@ -16,8 +16,9 @@ This short course is designed to provide a practical introduction to web applica
 ## Course Outline
 - OWASP
 - Servers and Clients concept
-- Penetration Testing Methodology
-- Vulnerability Assessment and Penetration Testing (VAPT)
+- Penetration Testing
+- Vulnerability and Exploitation
+- Exploitation labs
 
 ## Course Materials
 Presentation and Lab Script will be available in this repository in `Materials` folder. You can clone this repository or download it as zip file. If you are not familiar with git, you can download it as zip file by clicking on the green button `Code` and then `Download ZIP`.
@@ -34,54 +35,28 @@ Some basic knowledge of web application development and networking will be helpf
 **If you are using KALI Linux, most of the tools are already installed**
 
 The following tools is the tools you need to download and install (Not installed by default in KALI Linux)
-- Burp Suite Community Edition (Recommended install in host machine)
+- Burp Suite Community Edition
+- Dirbuster
 
 
 and many more. We will install them as we go.
 
 
 ## Exploitation showcase
-- Discovery
-- Injection
-    - SQL Injection
-    - Password Cracking
+- Reconnaissance
+- Broken Access Control
 - Broken Authentication
-    - Authentication Bypass
-- Broken Authorization
-    - Privilege Escalation
-    - User enumeration
-- Sensitive Data Exposure
-    - Juice shop confidential file
-- XML External Entities (XXE)
-    - File upload
-- Improper Input Validation
-    - Template Injection
-    - Null byte poisoning
-    - Http request manipulation
-    - Reverse Shell
-- Broken access control
-    - Insecure Direct Object Reference (IDOR)
-- Security misconfiguration
-    - FTP
-- Cross Site Scripting (XSS)
-    - DOM Based XSS
-    - Stored XSS
-- Vulnerable components
-    - Arbitrary File Write
-    - Forged Signed JWT
-- Security through Obscurity
-    - Blockchain Hype
-- Unvalidated redirects
-    - Allowlist Bypass
-    - Outdated Allowlist
-- Broken Anti-Automation
-    - Captcha Bypass
-- Cryptographic Issues
-    - Forged Coupon
-- Miscellaneous
-    - Find hidden score board
-    - Bully Chatbot
+- HTTP Parameter Manipulation
+- Null Byte Poisoning
+- Open Source Intelligence (OSINT)
+- Password Cracking
+- Privilege Escalation
+- Server-Side Template Injection (SSTI)
+- SQL Injection (SQLI)
+- URL Encoding
+- Cross-Site Scripting (XSS)
+- Local Variable Manipulation
 
 <br>
-<p align="center"><img src="icon/wpst-transp.png" width=30% alt="Some thing you are looking for...">
-<br> Version 1.0.0 </p>
+<p align="center"><img src="icon/pwst-transp.png" width=40% alt="Some thing you are looking for...">
+<br><center><h4> Version 2.0 </h4></center></p>
