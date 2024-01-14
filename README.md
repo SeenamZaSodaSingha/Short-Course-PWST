@@ -46,16 +46,16 @@ and many more. We will install them as we go.
 - Reconnaissance
 - Broken Access Control
 - Broken Authentication
-- HTTP Parameter Manipulation
+- Cross-Site Scripting (XSS)
+- Local Variable Manipulation
 - Null Byte Poisoning
 - Open Source Intelligence (OSINT)
 - Password Cracking
 - Privilege Escalation
+- Reverse Shell
 - Server-Side Template Injection (SSTI)
 - SQL Injection (SQLI)
 - URL Encoding
-- Cross-Site Scripting (XSS)
-- Local Variable Manipulation
 
 <br>
 <p align="center"><img src="icon/pwst-transp.png" width=40% alt="Some thing you are looking for...">
