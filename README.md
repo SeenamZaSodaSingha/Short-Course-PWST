@@ -59,4 +59,4 @@ and many more. We will install them as we go.
 
 <br>
 <p align="center"><img src="icon/pwst-transp.png" width=40% alt="Some thing you are looking for...">
-<br><center><h4> Version 2.0 </h4></center></p>
+<br><center><h4> Version 2.1 </h4></center></p>
