@@ -1,4 +1,4 @@
-# Welcome to short course Practical Web Application Security and Testing (It's very easy, trust me!)
+# Welcome to the short course Practical Web Application Security and Testing (It's VERY EASY and FRIENDLY TO BEGINNERS, trust me!)
 
 <p align="center"><img src="icon/Infinite-Hacklab.png" width=50% alt="By: CS Infinite and CA HACKLAB"></p>
 
@@ -9,37 +9,33 @@
 - [Prerequisites](#prerequisites)
 
 ## Introduction
-This short course is designed to provide a practical introduction to web application security and testing. If you a re beginner here, don't worry, **we will start from the very beginning**. Course structure will be:
+This short course is designed to provide a practical introduction to web application security and testing. If you are a beginner here, don't worry, **we will start from the very beginning**. The course structure will be as follows:
 - Lecture (I know, I know)
 - [Exploitation Showcase](#exploitation-showcase)
 
 ## Course Outline
 - OWASP
-- Servers and Clients concept
+- Servers and Client's concept
 - Penetration Testing
 - Vulnerability and Exploitation
 - Exploitation labs (Don't worry, it's EZ)
 
 ## Course Materials
-Presentation and Lab Script will be available in this repository in `Materials` folder. You can clone this repository or download it as zip file. If you are not familiar with git, you can download it as zip file by clicking on the green button `Code` and then `Download ZIP`.
+Presentation and Lab Script will be available in this repository in the `Materials` folder. You can clone this repository or download it as a zip file. If you are not familiar with git, you can download it as a zip file by clicking on the green button `Code` and then `Download ZIP`.
 
 ## Prerequisites
 Some basic knowledge of web application development and networking will be helpful. However, we will start from the very beginning, so don't worry if you don't have any knowledge about web application development and networking.
 ### OS and Environment
-- Linux OS **(Strongly recommended KALI Linux)**
-- VirtualBox or VMWare (In case of you not bare metal Linux user)
+- Linux OS **(Strongly recommended KALI Linux and "AVOID THE WINDOWS WSL")**
+- VirtualBox or VMWare (In case you are not a bare metal Linux user)
 - Docker Desktop 
 - **Lots of RAM** 
 
 ### Tools 
 **If you are using KALI Linux, most of the tools are already installed**
 
-The following tools is the tools you need to download and install (Not installed by default in KALI Linux)
+The following tool is the tools you need to download and install (Not installed by default in KALI Linux)
 - Burp Suite Community Edition
-
-
-and many more. We will install them as we go.
-
 
 ## Exploitation showcase
 - Reconnaissance
