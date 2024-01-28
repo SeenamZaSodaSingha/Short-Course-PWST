@@ -36,7 +36,6 @@ Some basic knowledge of web application development and networking will be helpf
 
 The following tools is the tools you need to download and install (Not installed by default in KALI Linux)
 - Burp Suite Community Edition
-- Dirbuster
 
 
 and many more. We will install them as we go.
@@ -47,13 +46,10 @@ and many more. We will install them as we go.
 - Broken Access Control
 - Broken Authentication
 - Cross-Site Scripting (XSS)
-- Local Variable Manipulation
 - Null Byte Poisoning
 - Open Source Intelligence (OSINT)
 - Password Cracking
 - Privilege Escalation
-- Reverse Shell
-- Server-Side Template Injection (SSTI)
 - SQL Injection (SQLI)
 - URL Encoding
 
@@ -61,4 +57,4 @@ and many more. We will install them as we go.
 <p align="center"><img src="icon/Poster.jpg" width=80% alt="Some thing you are looking for..."></p>
 <br>
 <p align="center"><img src="icon/pwst-transp.png" width=40% alt="Some thing you are looking for..."></p>
-<center><h4> Version 2.13</h4></center>
+<center><h4> Version 2.14</h4></center>
