@@ -1,4 +1,4 @@
-# Welcome to short course Practical Web Application Security and Testing
+# Welcome to short course Practical Web Application Security and Testing (It's very easy, trust me!)
 
 <p align="center"><img src="icon/Infinite-Hacklab.png" width=50% alt="By: CS Infinite and CA HACKLAB"></p>
 
@@ -9,7 +9,7 @@
 - [Prerequisites](#prerequisites)
 
 ## Introduction
-This short course is designed to provide a practical introduction to web application security and testing. If you a re beginner here, don't worry, we will start from the very beginning. Course structure will be:
+This short course is designed to provide a practical introduction to web application security and testing. If you a re beginner here, don't worry, **we will start from the very beginning**. Course structure will be:
 - Lecture (I know, I know)
 - [Exploitation Showcase](#exploitation-showcase)
 
@@ -18,7 +18,7 @@ This short course is designed to provide a practical introduction to web applica
 - Servers and Clients concept
 - Penetration Testing
 - Vulnerability and Exploitation
-- Exploitation labs
+- Exploitation labs (Don't worry, it's EZ)
 
 ## Course Materials
 Presentation and Lab Script will be available in this repository in `Materials` folder. You can clone this repository or download it as zip file. If you are not familiar with git, you can download it as zip file by clicking on the green button `Code` and then `Download ZIP`.
@@ -57,4 +57,5 @@ and many more. We will install them as we go.
 <p align="center"><img src="icon/Poster.jpg" width=80% alt="Some thing you are looking for..."></p>
 <br>
 <p align="center"><img src="icon/pwst-transp.png" width=40% alt="Some thing you are looking for..."></p>
-<center><h4> Version 2.14</h4></center>
+<br>
+<center><h4> Version 2.14 </h4></center>
